@@ -3,8 +3,7 @@
 Tran Tung Lam - Intern Software Engineer
 
 ### ☞ Follow me
-
-► FACEBOOK: https://www.facebook.com/tunglam.262/  <br>
+<p>► FACEBOOK: https://www.facebook.com/tunglam.262/ </p><br>
 ► GITHUB: https://github.com/Louis2602             <br>
 ► LINKEDIN: https://www.linkedin.com/in/ttlam262/  <br>
 ► INSTAGRAM: https://www.instagram.com/_ttlam_/    <br>
