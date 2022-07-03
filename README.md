@@ -1,5 +1,5 @@
 # React Portfolio
-### Info
+### ☞ Info
 Tran Tung Lam - Intern Software Engineer
 
 ### ☞ Follow me
