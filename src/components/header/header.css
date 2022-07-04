@@ -65,13 +65,13 @@ header {
 /* Media Queries */
 @media screen and (max-width: 1024px) {
     header {
-        height: 68vh;
+        height: 88vh;
     }
 }
 
 @media screen and (max-width: 600px) {
     header {
-        height: 100vh;
+        height: 130vh;
     }
 
     .header__socials, .scroll__down {
